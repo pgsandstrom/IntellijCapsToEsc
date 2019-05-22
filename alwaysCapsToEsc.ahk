@@ -1,2 +1,1 @@
 CapsLock::Esc
-Esc::return
